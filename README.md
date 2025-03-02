@@ -1,13 +1,3 @@
-<p>
-  <img src="https://github.com/user-attachments/assets/99ad5c43-fd55-429b-9e6e-dc27994a39f0" alt="VisionForge Logo" width="400">
-  <br>
-  <em>Forge powerful vision-language models for specialized domains</em>
-</p>
-
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![Hugging Face](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/docs/transformers/index)
-
 ```python
 #Standard library imports for basic functionality
 import os
